@@ -6,3 +6,11 @@ body{
     height: 100vh;
     background-color: #ff0e0ee0;
 }
+.prince{
+    background-color: orange;
+    font-family: "Pixelify Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 25rem;
+    font-style: normal;
+    color: black;
+}
