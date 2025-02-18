@@ -1,16 +1,29 @@
 body{
+    background-color: #ff0e0ee0;
+    text-align: center;
+}
+.firstp .secondp{
+    background-color: orange;
+    font-family: "Pixelify Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0 auto;
     height: 100vh;
-    background-color: #ff0e0ee0;
 }
-.prince{
-    background-color: orange;
-    font-family: "Pixelify Sans", serif;
-    font-optical-sizing: auto;
-    font-weight: 25rem;
-    font-style: normal;
-    color: black;
+.prince .princess{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-style: oblique;
+    color: antiquewhite;
+}
+h1 h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: antiquewhite;
+    font-weight: bolder;
 }
